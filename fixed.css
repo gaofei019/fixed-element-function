@@ -1,0 +1,14 @@
+.event-detail-btn-wrap{
+    margin:20px 0 0;
+    height:84px;
+}
+.event-detail-btn-box.fixed{
+    position:fixed;
+    bottom:0;
+    background-color:hsla(0,0%,100%,.92);
+    width:700px;
+}
+.event-detail-btn-box{
+    padding-bottom:16px;
+    margin:0;
+}
